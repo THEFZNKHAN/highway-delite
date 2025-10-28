@@ -1,6 +1,6 @@
-# BookIt: Experiences & Slots
+# Highway-Delite: Experiences & Slots
 
-BookIt is a full-stack web application that allows users to browse, book, and manage travel experiences. This project is designed to showcase a complete end-to-end booking flow, from exploring available experiences to completing a booking and receiving confirmation.
+Highway-Delite is a full-stack web application that allows users to browse, book, and manage travel experiences. This project is designed to showcase a complete end-to-end booking flow, from exploring available experiences to completing a booking and receiving confirmation.
 
 ## Figma Design
 
@@ -44,11 +44,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/thefznkhan/bookit-exp-slots.git
+    git clone https://github.com/thefznkhan/highway-delite.git
     ```
 1.  Go to folder
     ```sh
-    cd bookit-exp-slots
+    cd highway-delite
     ```
 2.  Install NPM packages
     ```sh
@@ -63,7 +63,7 @@ To run the application in development mode, use the following command:
 npm run dev
 ```
 
-This will start the development server at `http://localhost:5173`.
+This will start the development server at `http://localhost:8080/`.
 
 ## Available Scripts
 
