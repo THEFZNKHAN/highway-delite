@@ -10,7 +10,7 @@ The UI/UX of this project is based on the following Figma design:
 
 ## Live Demo
 
-[Link to the hosted application]
+[[Link to the hosted application]](https://highway-delite-bice.vercel.app/)
 
 ## Technologies Used
 
